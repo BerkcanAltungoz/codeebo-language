@@ -1,9 +1,11 @@
-# PROJECT STEP 1: LEXICAL ANALYZER
-Dear Murat Teacher, since all three of us are roommates we made the program together in a room. This is the reason there is a single contributor on the github. We talked and coded every part together. Thank you for understanding.
+# CODEEBO LANGUAGE
+Team Project for CSE 334 - Programming Languages
+
+This project is made using Lex and Yacc to create a programming language called CodeEbo.
 
 ## PROJECT MEMBERS
+Berkcan Altungöz - 20170808014
 Nasip Efe Tığlı - 20170808020
-Berkcan ALtungöz - 20170808014
 Özgün Aras - 20150807031
 ### EXPLANATION OF THE LANGUAGE ###
 
