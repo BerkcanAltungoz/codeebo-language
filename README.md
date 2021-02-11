@@ -1,5 +1,5 @@
 # CODEEBO LANGUAGE
-Team Project for CSE 334 - Programming Languages
+Team Project for CSE 334 - Programming Languages in 3rd Year Spring Semester
 
 This project is made using Lex and Yacc to create a programming language called CodeEbo.
 
